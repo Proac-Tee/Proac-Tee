@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Babatunde Taiwo</h1>
-<h3 align="center">A self taught full-stack developer with the knack of creating iconic projects in the tech, art and social community</h3>
+<h3 align="center">A self taught full-stack developer with a knack of creating iconic projects in the tech, art and social community</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proac-tee&label=Profile%20views&color=0e75b6&style=flat" alt="proac-tee" /> </p>
 
